@@ -63,6 +63,6 @@ function changeColor(gDiv){
 	gDiv.style.backgroundColor = color;
 	
 }
-makeBoard();
+makeGrid();
 
 
